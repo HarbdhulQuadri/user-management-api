@@ -12,7 +12,7 @@ import { UsersModule } from './users/users.module';
       port: 5432,
       username: 'codehunter',
       // password: 'your_password',
-      database: 'postgres',
+      database: 'new',
       autoLoadEntities: true,
       synchronize: true, // Set to false in production
     }),
